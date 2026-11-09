@@ -17,4 +17,3 @@ Drag this **entire folder** into a new Netlify project's manual deployment area,
 - `assets/habib-tarafder.png`: supplied leadership photograph
 
 No client identities, historical employer names, fabricated metrics or unverified contact details are included. The illustrated product mockup is labeled as a concept, not a screenshot.
-"# BizwareSolution" 
